@@ -13,6 +13,7 @@ Daypart analysis is a data analysis method used to segment and evaluate business
 ## Study Case
 ### Objective
 coffeehouse Café, a popular coffee shop in the city center, has seen its daily turnover drop by about 20% in the past three months, especially on weekdays. The number of customers has remained relatively stable, but sales have been declining. The owner has tried various promotional strategies but the results were not as expected, so it was necessary to find the main cause of its problem.
+
 As a first step, the owner divides the time of day into segments and collects transaction data for the past 2 months according to the time segments. The results are:
 -	Morning (07:00 – 10:00): stable sales (30% of the daily total)
 -	Noon (10:00 – 14:00): significant decrease (only 15% of the daily total)
