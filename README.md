@@ -1,6 +1,6 @@
 # Daypart-Analysis-Portfolio
 
-## introduction
+## Introduction
 Daypart analysis is a data analysis method used to segment and evaluate business performance based on time of day. This analysis aims to understand patterns of customer behavior across different time periods.
 ### Key components in Daypart Analysis
 -	Daypart: time of day divided into segments
