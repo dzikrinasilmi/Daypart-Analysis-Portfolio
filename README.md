@@ -32,7 +32,7 @@ As a first step, the owner divides the time of day into segments and collects tr
 ## Dataset
 <a href="https://github.com/dzikrinasilmi/Daypart-Analysis-Portfolio/blob/main/CoffeeHouseCafeDataset.csv">Dataset</a>
 
-Dataset explanation
+Dataset Information
 -	Date: the date the customer made the transaction
 -	Time: the time at which the customer made the transaction
 -	Daypart: the time segments in which the customer made the transaction (Morning, Noon, Afternoon, evening)
